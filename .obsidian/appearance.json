@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "monospaceFontFamily": "Courier New",
+  "translucency": true,
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "weekly-report"
+  ]
+}

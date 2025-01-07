@@ -1,0 +1,14 @@
+{
+  "livePreview": true,
+  "vimMode": true,
+  "attachmentFolderPath": "./attachments",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showLineNumber": true,
+  "readableLineLength": true,
+  "alwaysUpdateLinks": true
+}

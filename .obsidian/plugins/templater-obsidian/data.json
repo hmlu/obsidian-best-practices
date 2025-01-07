@@ -1,0 +1,62 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "工作笔记/工作记录/会议记录",
+      "template": "Templates/Meeting.md"
+    },
+    {
+      "folder": "个人/学习/英语/📚 新概念英语",
+      "template": "Templates/English Notes.md"
+    },
+    {
+      "folder": "工作报告/周报",
+      "template": "Templates/Weekly Report.md"
+    },
+    {
+      "folder": "工作报告/月报",
+      "template": "Templates/Monthly Report.md"
+    },
+    {
+      "folder": "工作报告/季报",
+      "template": "Templates/Quarterly Report.md"
+    },
+    {
+      "folder": "工作报告（Markdown）/周报",
+      "template": "Templates/Markdown/Weekly Report MD.md"
+    },
+    {
+      "folder": "工作报告（Markdown）/月报",
+      "template": "Templates/Markdown/Monthly Report MD.md"
+    },
+    {
+      "folder": "工作报告（Markdown）/季报",
+      "template": "Templates/Markdown/Quarterly Report MD.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [],
+  "enable_ribbon_icon": true
+}
