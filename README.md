@@ -100,7 +100,3 @@ obsidian-best-practices/
 
 如果你在使用中遇到问题，或有好的建议，欢迎通过 GitHub 提交 Issue 或 Pull Request！  
 [GitHub 仓库](https://github.com/hmlu/obsidian-best-practices)
-
----
-
-以上说明帮助用户快速从零开始使用你的 Obsidian 最佳实践，同时提供清晰的项目结构与后续支持方式。
